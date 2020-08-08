@@ -1,3 +1,4 @@
+// お勉強
 class Menu {
   items: Array<string>;
   pages: number
